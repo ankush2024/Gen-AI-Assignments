@@ -1,4 +1,4 @@
-chromadb==0.5.23
+chromadb
 google-genai>=1.0.0
 PyMuPDF==1.26.4
 python-dotenv==1.0.1
